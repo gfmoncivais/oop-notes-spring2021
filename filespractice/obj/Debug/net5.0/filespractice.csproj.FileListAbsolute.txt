@@ -1,0 +1,15 @@
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/bin/Debug/net5.0/filespractice.deps.json
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/bin/Debug/net5.0/filespractice.runtimeconfig.json
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/bin/Debug/net5.0/filespractice.runtimeconfig.dev.json
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/bin/Debug/net5.0/filespractice.dll
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/bin/Debug/net5.0/ref/filespractice.dll
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/bin/Debug/net5.0/filespractice.pdb
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.csprojAssemblyReference.cache
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.AssemblyInfoInputs.cache
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.AssemblyInfo.cs
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.csproj.CoreCompileInputs.cache
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.dll
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/ref/filespractice.dll
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.pdb
+/Users/guadalupemoncivais/Documents/MIS221/filespractice/obj/Debug/net5.0/filespractice.genruntimeconfig.cache

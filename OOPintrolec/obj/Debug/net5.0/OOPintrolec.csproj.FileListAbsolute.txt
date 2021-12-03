@@ -1,0 +1,15 @@
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/bin/Debug/net5.0/OOPintrolec.deps.json
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/bin/Debug/net5.0/OOPintrolec.runtimeconfig.json
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/bin/Debug/net5.0/OOPintrolec.runtimeconfig.dev.json
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/bin/Debug/net5.0/OOPintrolec.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/bin/Debug/net5.0/ref/OOPintrolec.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/bin/Debug/net5.0/OOPintrolec.pdb
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.csprojAssemblyReference.cache
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.AssemblyInfoInputs.cache
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.AssemblyInfo.cs
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.csproj.CoreCompileInputs.cache
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/ref/OOPintrolec.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.pdb
+/Users/guadalupemoncivais/Documents/MIS221/OOPintrolec/obj/Debug/net5.0/OOPintrolec.genruntimeconfig.cache

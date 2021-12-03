@@ -1,0 +1,15 @@
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/bin/Debug/net5.0/OOP_Dogs.deps.json
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/bin/Debug/net5.0/OOP_Dogs.runtimeconfig.json
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/bin/Debug/net5.0/OOP_Dogs.runtimeconfig.dev.json
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/bin/Debug/net5.0/OOP_Dogs.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/bin/Debug/net5.0/ref/OOP_Dogs.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/bin/Debug/net5.0/OOP_Dogs.pdb
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.csprojAssemblyReference.cache
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.AssemblyInfoInputs.cache
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.AssemblyInfo.cs
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.csproj.CoreCompileInputs.cache
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/ref/OOP_Dogs.dll
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.pdb
+/Users/guadalupemoncivais/Documents/MIS221/OOP_Dogs/obj/Debug/net5.0/OOP_Dogs.genruntimeconfig.cache

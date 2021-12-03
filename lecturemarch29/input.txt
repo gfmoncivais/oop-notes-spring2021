@@ -1,0 +1,10 @@
+1#Ty Cobb#Team 1#.366
+2#Rogers Hornsby#Team 2#.358
+3#Joe Jackson#Team 3#.355
+4#Lefty O'Doul#Team 1#.349
+5#Ed Delahanty#Team 2#.345
+6#Tris Speaker#Team 3#.344
+7#Billy Hamilton#Team 1#.344
+8#Ted Williams#Team 2#.344
+9#Dan Brouthers#Team 3#.342
+10#Babe Ruth#Team 1#.342
